@@ -73,6 +73,8 @@ delay(2000);
 stopp();
 delay(10000);
 
+//change the value of i to make a circle                                            
+
 
 for(int i=0;i<5000;i++){
 forward();
